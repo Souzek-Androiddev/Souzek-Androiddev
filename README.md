@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sai Souzek
-- 👀 I’m interested in video gaming, web developer, programmer, graphic designing, video editing/animation and sportive 
+- 👀 I’m interested in video gaming, web developer, programmer, graphic designing, video editing/animation and sportive.
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python, C/C++, Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
