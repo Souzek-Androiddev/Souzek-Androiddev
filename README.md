@@ -7,6 +7,6 @@
 - ⚡ Fun fact: "Caffeine fueled, code driven" or, if you'd like something a bit more unique: "Warning: code may contain traces of video game breaks"
 
 <!---
-Souzek/Souzek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anonymous_Cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
