@@ -7,44 +7,42 @@
 - ⚡ Fun fact: "Caffeine fueled, code driven" or, if you'd like something a bit more unique: "Warning: code may contain traces of video game breaks"
   
 ### Technologies:
-<!-- Technologies -->
-
 <p>
   <!-- Android Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png">
+  <img height="100" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="Android Logo">
 
   <!-- Combined HTML, CSS, JavaScript Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/118911084-1c53b680-b8f2-11eb-912f-66ed4d2d3d20.png">
+  <img height="100" src="https://user-images.githubusercontent.com/25181517/118911084-1c53b680-b8f2-11eb-912f-66ed4d2d3d20.png" alt="HTML, CSS, JS Logo">
 
   <!-- 3D Kotlin Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png">
+  <img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Kotlin Logo">
 
   <!-- 3D Flutter Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png">
+  <img height="100" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="Flutter Logo">
 
   <!-- C++ Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png">
+  <img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png" alt="C++ Logo">
 
   <!-- Java Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png">
+  <img height="100" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="Java Logo">
 
   <!-- Python Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png">
+  <img height="100" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Python Logo">
 
-  <!-- REST API Icon -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/190121324-0b7e74f2-d419-4f85-b6b2-bd1d47d37c67.png">
+  <!-- API Icon (generic) -->
+  <img height="100" src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" alt="API Icon">
 
   <!-- Firebase Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png">
+  <img height="100" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" alt="Firebase Logo">
 
-  <!-- Jetpack Compose Icon -->
-  <img height="100" src="https://developer.android.com/images/jetpack/compose-tutorial/jetpack-compose-icon.png">
+  <!-- Jetpack Compose Logo -->
+  <img height="100" src="https://developer.android.com/images/jetpack/compose/compose-android-logo.png" alt="Jetpack Compose Logo">
 
-  <!-- XML Layout (Android XML Icon) -->
-  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/XML_Icon.png">
+  <!-- XML Icon -->
+  <img height="100" src="https://cdn-icons-png.flaticon.com/512/136/136524.png" alt="XML Icon">
 
-  <!-- Android Studio (represents mastering Android APIs & Frameworks) -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/121406617-a9559880-c95e-11eb-828b-09e6d8ef9e54.png">
+  <!-- Master Android APIs & Frameworks (Android SDK icon) -->
+  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android SDK Logo">
 </p>
 
 
