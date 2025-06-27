@@ -28,7 +28,9 @@
 
 <!-- Combined HTML, CSS & JavaScript in one picture -->
 <img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML CSS JS Combo" style="border: 2px solid #f16529;">
-<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/csss-original-wordmark.svg" alt="HTML CSS JS Combo" style="border: 2px solid #f16529;">
+
+<!-- CSS Logo -->
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo">
 
 <!-- 3D Flutter Logo -->
 <img height="100" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="3D Flutter Logo">
