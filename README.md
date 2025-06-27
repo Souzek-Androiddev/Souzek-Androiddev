@@ -29,9 +29,6 @@
 <!-- Combined HTML, CSS & JavaScript in one picture -->
 <img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML CSS JS Combo" style="border: 2px solid #f16529;">
 
-<!-- 3D Kotlin Logo -->
-<img height="100" src="https://kotlinlang.org/assets/images/open-graph/kotlin_og.png" alt="3D Kotlin Logo">
-
 <!-- 3D Flutter Logo -->
 <img height="100" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="3D Flutter Logo">
 
