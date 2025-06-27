@@ -7,8 +7,8 @@
 - ⚡ Fun fact: "Caffeine fueled, code driven" or, if you'd like something a bit more unique: "Warning: code may contain traces of video game breaks"
   
 ### Technologies:
-<p><img height="100" src="![Wed development logo](https://github.com/user-attachments/assets/0883d51e-4835-408f-847b-599f82b1b87d)"> 
-<img height="100" src="![Android logo](https://github.com/user-attachments/assets/cec95d4b-0302-444b-8c36-99d6aebb7a75)"> 
+<p><img height="100" src=![Wed development logo]"(https://github.com/user-attachments/assets/0883d51e-4835-408f-847b-599f82b1b87d)"> 
+<img height="100" src=![Android logo]"(https://github.com/user-attachments/assets/cec95d4b-0302-444b-8c36-99d6aebb7a75)"> 
 </p>
 
 
