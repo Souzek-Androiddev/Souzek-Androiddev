@@ -5,6 +5,10 @@
 - 📫 Contact me on Github, please if you have any questions to ask.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Caffeine fueled, code driven" or, if you'd like something a bit more unique: "Warning: code may contain traces of video game breaks"
+- 
+- Technologies:
+  ![Wed development logo](https://github.com/user-attachments/assets/3f8f8b66-31db-44dd-81f6-17f1dce29dde)
+
 
 <!---
 Anonymous_Cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
