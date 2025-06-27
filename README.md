@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anonymous_Cyber
-- 👀 I’m interested in video gaming, web developer, programmer, graphic designing, video editing/animation and sportive.
+- 👀 I’m interested in Video Gaming, Android & Web Developer, Programmer, Graphic Designing, Video Editing/Animation and Sportive.
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python, C/C++, Java.
 - 💞️ I’m looking to collaborate on basically anything, honestly and technological ideas.
 - 📫 Contact me on Github, please if you have any questions to ask.
