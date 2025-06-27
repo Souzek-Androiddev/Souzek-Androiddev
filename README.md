@@ -38,8 +38,6 @@
   <!-- XML Icon -->
   <img height="100" src="https://cdn-icons-png.flaticon.com/512/136/136524.png" alt="XML Icon">
 
-  <!-- Master Android APIs & Frameworks (Android SDK icon) -->
-  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android SDK Logo">
 </p>
 
 
