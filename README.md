@@ -8,7 +8,7 @@
   
 ### Technologies:
 
-<p><img height="100" src="https://github.com/user-attachments/assets/3f8f8b66-31db-44dd-81f6-17f1dce29dde).png">
+<p><img height="100" src="https://github.com/user-attachments/assets/3f8f8b66-31db-44dd-81f6-17f1dce29dde)">
 
 
 <!---
