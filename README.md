@@ -8,7 +8,8 @@
   
 ### Technologies:
 
-"https://github.com/user-attachments/assets/3f8f8b66-31db-44dd-81f6-17f1dce29dde)"
+<p> ![Wed development logo](https://github.com/user-attachments/assets/0883d51e-4835-408f-847b-599f82b1b87d)
+</p>
 
 
 <!---
