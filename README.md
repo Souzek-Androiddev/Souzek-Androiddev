@@ -32,12 +32,6 @@
   <!-- Firebase Logo -->
   <img height="100" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" alt="Firebase Logo">
 
-  <!-- Jetpack Compose Logo -->
-  <img height="100" src="https://developer.android.com/images/jetpack/compose/compose-android-logo.png" alt="Jetpack Compose Logo">
-
-  <!-- XML Icon -->
-  <img height="100" src="https://cdn-icons-png.flaticon.com/512/136/136524.png" alt="XML Icon">
-
 </p>
 
 
