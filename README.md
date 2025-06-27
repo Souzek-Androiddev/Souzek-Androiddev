@@ -8,11 +8,8 @@
   
 ### Technologies:
 <p>
-  <!-- Android Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="Android Logo">
-
-  <!-- Combined HTML, CSS, JavaScript Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/118911084-1c53b680-b8f2-11eb-912f-66ed4d2d3d20.png" alt="HTML, CSS, JS Logo">
+  <!-- Master Android APIs & Frameworks (Android SDK icon) -->
+  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android SDK Logo">
 
   <!-- 3D Kotlin Logo -->
   <img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Kotlin Logo">
