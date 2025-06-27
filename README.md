@@ -23,6 +23,28 @@
   <!-- Java Logo -->
   <img height="100" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="Java Logo">
 
+  <!-- Android Logo -->
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo">
+
+<!-- Combined HTML, CSS & JavaScript in one picture -->
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML CSS JS Combo" style="border: 2px solid #f16529;">
+
+<!-- 3D Kotlin Logo -->
+<img height="100" src="https://kotlinlang.org/assets/images/open-graph/kotlin_og.png" alt="3D Kotlin Logo">
+
+<!-- 3D Flutter Logo -->
+<img height="100" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="3D Flutter Logo">
+
+<!-- C++ Logo -->
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo">
+
+<!-- Java Logo -->
+<img height="100" src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java Logo">
+
+<!-- Python Logo -->
+<img height="100" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png" alt="Python Logo">
+
+
   <!-- Python Logo -->
   <img height="100" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Python Logo">
 
