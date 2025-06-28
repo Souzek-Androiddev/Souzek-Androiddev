@@ -36,14 +36,13 @@
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo">
 
 <!-- XML Layouts (Generic XML file icon) -->
-<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/8/82/XML_Icon.png" alt="XML Layouts">
+<img height="100" src="https://upload.google.com/wikipedia/commons/8/82/XML_Icon.png" alt="XML Layouts">
 
 <!-- Jetpack Logo (Android Jetpack Components) -->
-<img height="100" src="https://developer.android.com/images/jetpack/jetpack-compose-logo.png" alt="Jetpack Compose Logo">
+<img height="100" src="https://developer.google.com/images/jetpack/jetpack-compose-logo.png" alt="Jetpack Compose Logo">
 
 <!-- Android Studio Logo -->
-<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio Logo">
-
+<img height="100" src="https://upload.google.com/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio Logo">
 
 <!-- 3D Flutter Logo -->
 <img height="100" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="3D Flutter Logo">
@@ -56,7 +55,6 @@
 
 <!-- Python Logo -->
 <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png" alt="Python Logo">
-
 
   <!-- Python Logo -->
   <img height="100" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Python Logo">
