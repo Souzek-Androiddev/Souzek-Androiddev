@@ -7,20 +7,21 @@
 - ⚡ Fun fact: "Caffeine fueled, code driven" or, if you'd like something a bit more unique: "Warning: code may contain traces of video game breaks"
   
 ### Technologies:
+
 <p>
-  <!-- Master Android APIs & Frameworks (Android SDK icon) -->
-  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android SDK Logo">
+<!-- Master Android APIs & Frameworks (Android SDK icon) -->
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android SDK Logo">
 
-  <!-- Git Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git Logo">
+<!-- Git Logo -->
+<img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git Logo">
 
-  <!-- C++ Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png" alt="C++ Logo">
+<!-- C++ Logo -->
+<img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png" alt="C++ Logo">
 
-  <!-- Java Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="Java Logo">
+<!-- Java Logo -->
+<img height="100" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="Java Logo">
 
-  <!-- Android Logo -->
+<!-- Android Logo -->
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo">
 
 <!-- Combined HTML, CSS & JavaScript in one picture -->
@@ -56,14 +57,12 @@
 <!-- Firebase Logo -->
 <img height="100" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" alt="Firebase Logo">
 
+<!-- XML layouts Logo -->
+<img height="100" src="https://www.kindpng.com/picc/m/367-3679723_xml-xml-logo-hd-png-download.png" alt="XML layouts Logo">
+
 <!-- Jetpack Logo -->
 <img height="100" src="https://miro.medium.com/v2/resize:fit:1200/0*_ca1XWfApCvDwk_S.jpg" alt="Jetpack Compose Logo">
-
 </p>
-
-
-
-
 
 <!---
 Anonymous_Cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
