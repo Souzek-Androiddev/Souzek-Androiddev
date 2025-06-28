@@ -30,6 +30,9 @@
 <img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo">
 
 <!-- JavaScript Logo -->
+<img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JavaScript/JavaScript-original-wordmark.svg" alt="JavaScript Logo">
+
+<!-- JavaScript Logo -->
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo">
 
 <!-- Kotlin Logo (Alternative) -->
