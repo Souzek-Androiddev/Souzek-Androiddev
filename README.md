@@ -9,7 +9,7 @@
 ### Technologies:
 
 <p>
-<!-- Master Android APIs & Frameworks (Android SDK icon) -->
+<!-- Android Logo  -->
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android SDK Logo">
 
 <!-- Git Logo -->
@@ -18,11 +18,13 @@
 <!-- HTTP Logo -->
 <img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png" alt="HTTP Logo">
 
-<!-- Java Logo -->
-<img height="100" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="Java Logo">
+<!-- REST API Logo -->
+<img height="100" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="REST API Logo">
 
-<!-- Android Logo -->
+<!-- Master Android APIs & Frameworks (Android SDK icon) -->
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo">
+<img height="100" src="https://github.com/user-attachments/assets/1a2ba78c-395b-416a-a0a1-4f652cca092b">
+
 
 <!-- Combined HTML, CSS & JavaScript in one picture -->
 <img height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML CSS JS Combo" style="border: 2px solid #f16529;">
