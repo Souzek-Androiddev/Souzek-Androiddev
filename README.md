@@ -12,8 +12,9 @@
 <!-- Android Logo  -->
 <img height="100" src="https://github.com/user-attachments/assets/1a2ba78c-395b-416a-a0a1-4f652cca092b">
 
-<!-- Git Logo -->
+<!-- Git & GitHub Copilot Logos -->
 <img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git Logo">
+<img height="100" src="https://camo.githubusercontent.com/925fb9aa3e8975b31c6f2f240cf8765ed8a9bd92ec092b00fdf131bfd898f628/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6f726967696e616c2e706e67">
 
 <!-- HTTP Logo -->
 <img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png" alt="HTTP Logo">
