@@ -57,8 +57,7 @@
   <img height="100" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" alt="Firebase Logo">
 
 <!-- Jetpack Logo -->
-  <img src="https://jetpack.com/wp-content/themes/jetpack/_inc/images/logo-jetpack-horizontal.svg" height="100" alt="Jetpack Logo">
-
+  <img height="100" src="https://miro.medium.com/v2/resize:fit:1200/0*_ca1XWfApCvDwk_S.jpg" alt="Jetpack Compose Logo">
 
 </p>
 
