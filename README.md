@@ -11,11 +11,8 @@
   <!-- Master Android APIs & Frameworks (Android SDK icon) -->
   <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" alt="Android SDK Logo">
 
-  <!-- 3D Kotlin Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Kotlin Logo">
-
-  <!-- 3D Flutter Logo -->
-  <img height="100" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="Flutter Logo">
+  <!-- Git Logo -->
+  <img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git Logo">
 
   <!-- C++ Logo -->
   <img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png" alt="C++ Logo">
