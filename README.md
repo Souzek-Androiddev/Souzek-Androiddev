@@ -35,14 +35,6 @@
 <!-- Kotlin Logo (Alternative) -->
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo">
 
-<!-- XML Layouts (Generic XML file icon) -->
-<img height="100" src="https://upload.google.com/wikipedia/commons/8/82/XML_Icon.png" alt="XML Layouts">
-
-<!-- Jetpack Logo (Android Jetpack Components) -->
-<img height="100" src="https://developer.google.com/images/jetpack/jetpack-compose-logo.png" alt="Jetpack Compose Logo">
-
-<!-- Android Studio Logo -->
-<img height="100" src="https://upload.google.com/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio Logo">
 
 <!-- 3D Flutter Logo -->
 <img height="100" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="3D Flutter Logo">
