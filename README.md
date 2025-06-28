@@ -15,8 +15,8 @@
 <!-- Git Logo -->
 <img height="100" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git Logo">
 
-<!-- C++ Logo -->
-<img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png" alt="C++ Logo">
+<!-- HTTP Logo -->
+<img height="100" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png" alt="HTTP Logo">
 
 <!-- Java Logo -->
 <img height="100" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png" alt="Java Logo">
