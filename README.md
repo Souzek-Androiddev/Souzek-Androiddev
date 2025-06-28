@@ -35,7 +35,6 @@
 <!-- Kotlin Logo (Alternative) -->
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo">
 
-
 <!-- 3D Flutter Logo -->
 <img height="100" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="3D Flutter Logo">
 
@@ -56,6 +55,10 @@
 
   <!-- Firebase Logo -->
   <img height="100" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" alt="Firebase Logo">
+
+<!-- Jetpack Logo -->
+  <img src="https://jetpack.com/wp-content/themes/jetpack/_inc/images/logo-jetpack-horizontal.svg" height="100" alt="Jetpack Logo">
+
 
 </p>
 
