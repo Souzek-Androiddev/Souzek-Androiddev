@@ -47,8 +47,8 @@
 <!-- Python Logo -->
 <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/free-python-2-226051.png" alt="Python Logo">
 
-<!-- Python Logo -->
-<img height="100" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Python Logo">
+<!-- PostMan Logo -->
+<img height="100" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="PostMan Logo">
   
 <!-- API Icon (generic) -->
 <img height="100" src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" alt="API Icon">
