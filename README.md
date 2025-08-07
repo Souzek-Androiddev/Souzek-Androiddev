@@ -69,6 +69,9 @@
 <!-- Node.js Logo -->
 <img height="100" src="https://pluspng.com/img-png/nodejs-logo-vector-png-desktop-background-2560.png" alt="Node.js Logo">
 
+<!-- npm Logo -->
+<img height="100" src="https://logospng.org/download/npm/npm-2048.png" alt="npm Logo">
+
 <!---
 Anonymous_Cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
