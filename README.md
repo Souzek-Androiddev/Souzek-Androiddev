@@ -73,6 +73,7 @@
 </p>
 <!-- Bootstramp Logo -->
 <img height="100" src="https://tse3.mm.bing.net/th/id/OIP.wTqrvM6nSQmYQPji3CMcWQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Bootstramp Logo">
-Anonymous_Cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---
+Souzek-Androiddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
