@@ -70,9 +70,13 @@
 
 <!-- npm Logo -->
 <img height="100" src="https://logospng.org/download/npm/npm-2048.png" alt="npm Logo">
-</p>
+
 <!-- Bootstrap Logo -->
 <img height="100" src="https://tse3.mm.bing.net/th/id/OIP.wTqrvM6nSQmYQPji3CMcWQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Bootstrap Logo">
+
+<!-- jquery Logo -->
+<img height="100" src="https://th.bing.com/th/id/R.c34089d27b2992f1a00aeece44c91cc4?rik=Qxs%2fpb82vOLu7w&riu=http%3a%2f%2fbrand.jquery.org%2fresources%2fjquery-mark-light.gif&ehk=Ys4JegUpWbTe8N0NkmHptUbl3FbCxc9GFPvEENMr3n4%3d&risl=&pid=ImgRaw&r=0" alt="jguery Logo">
+</p>
 <!---
 Souzek-Androiddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
