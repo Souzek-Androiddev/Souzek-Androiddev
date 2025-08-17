@@ -71,8 +71,8 @@
 <!-- npm Logo -->
 <img height="100" src="https://logospng.org/download/npm/npm-2048.png" alt="npm Logo">
 </p>
-<!-- Bootstramp Logo -->
-<img height="100" src="https://tse3.mm.bing.net/th/id/OIP.wTqrvM6nSQmYQPji3CMcWQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Bootstramp Logo">
+<!-- Bootstrap Logo -->
+<img height="100" src="https://tse3.mm.bing.net/th/id/OIP.wTqrvM6nSQmYQPji3CMcWQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Bootstrap Logo">
 <!---
 Souzek-Androiddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
