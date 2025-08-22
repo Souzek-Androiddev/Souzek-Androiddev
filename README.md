@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abdul Salim
 - 👀 I’m interested in Video Gaming, Android & Web Developer, Programmer, Graphic Designing, Video Editing/Animation and Sportive.
+- 📱 Love everything about Android development and Andriod Products. Day by day working on projects and improving my Android development skills;
 - 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, Kotlin, Node.js, Git, npm, Flutter, Firebase, REST API, Jetpack Compose, XML layouts, Python, C++, and Java.
 - 💞️ I’m looking to collaborate on basically anything, honestly and technological ideas.
 - 📫 Contact me on Github, please if you have any questions to ask.
