@@ -100,8 +100,8 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 - [**Coursera-Tutorial**](https://github.com/Souzek-Androiddev/Coursera-Tutorial)  
   Coursework, tutorials, and notes from my online learning adventures.
 
-- [**VScode---C-Tools**](https://github.com/Souzek-Androiddev/VScode---C-Tools)  
-  Tools and extensions for enhancing C/C++ development in VS Code.
+- [**VScode**](https://github.com/Souzek-Androiddev/VScode)  
+  Tools and extensions for enhancing HTML, CSS & JAVASCRIPT, C/C++, JAVA, PYTHON development in VS Code.
 
 ---
 
@@ -110,7 +110,7 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 - Android Development
 - Portfolio Projects
 - Web Development
-- C/C++, JAVA, PYTHON
+- HTML, CSS & JAVASCRIPT, C/C++, JAVA, PYTHON
 - Learning & Sharing Knowledge
 
 ---
