@@ -110,7 +110,7 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 - Android Development
 - Portfolio Projects
 - Web Development
-- C/C++
+- C/C++, JAVA, PYTHON
 - Learning & Sharing Knowledge
 
 ---
