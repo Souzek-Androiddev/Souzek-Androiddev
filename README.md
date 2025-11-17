@@ -106,7 +106,6 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical)
 
 <!-- Pinned repositories (example pins) -->
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Portfolio-project&theme=radical)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Souzek-Androiddev.github.io&theme=radical)
 
 <!-- Contribution graph -->
