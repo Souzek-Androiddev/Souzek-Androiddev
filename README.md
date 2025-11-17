@@ -111,27 +111,40 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 
 ## 🛠️ Skills & Interests
 
-- Android: Java, Kotlin, Jetpack Compose, XML layouts  
-- Backend & APIs: Firebase, REST APIs, Postman  
-- Web: HTML, CSS, JavaScript, Bootstrap, Node.js,
+- Android: Java, Kotlin, Jetpack Compose, XML layouts
+- Frontend: HTML, CSS, JavaScript, Jquery, Bootstrap, Node.js, React
+- Version Control Systems: Git
+- VCS Hosting: GitHub, GitLab
+- Backend & APIs: Firebase, REST APIs, Postman
+- Database: PostgreSQL, MongoDM, 
 - Package manager: npm  
-- Other: Flutter, Python, C++, Git, Figma
+- Other: Figma, Flutter, Python, C++, Java
 
 ---
 
 ## 📈 GitHub Stats
 
-<!-- Main stats card -->
+<!-- Profile overview -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souzek-Androiddev&theme=radical)
+
+<!-- Main stats -->
 ![Souzek-Androiddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souzek-Androiddev&show_icons=true&theme=radical)
 
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical)
 
-<!-- Activity graph -->
+<!-- Pinned repositories (example pins) -->
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Portfolio-project&theme=radical)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Souzek-Androiddev.github.io&theme=radical)
+
+<!-- Contribution graph -->
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Souzek-Androiddev&theme=react-dark)
 
 <!-- Streaks -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Souzek-Androiddev&theme=radical)
+
+<!-- Visitor counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Souzek-Androiddev&style=flat)
 
 ---
 
