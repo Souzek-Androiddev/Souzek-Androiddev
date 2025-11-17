@@ -42,14 +42,17 @@
 <!-- Bootstrap Logo -->
 <img width="50" height="50" src="https://tse3.mm.bing.net/th/id/OIP.wTqrvM6nSQmYQPji3CMcWQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Bootstrap Logo">
 
-<!-- Kotlin Logo (Alternative) -->
-<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo">
+<!-- Node.js Logo -->
+<img width="50" height="50" src="https://pluspng.com/img-png/nodejs-logo-vector-png-desktop-background-2560.png" alt="Node.js Logo">
 
 <!-- Figma Logo -->
 <img width="50" height="50" src="https://tse1.mm.bing.net/th/id/OIP.J-OmUNoLp2GnRTv09km9SwHaDw?w=900&h=456&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Figma Logo">
 
 <!-- 3D Flutter Logo -->
 <img width="50" height="50" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="3D Flutter Logo">
+
+<!-- Kotlin Logo (Alternative) -->
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin Logo">
 
 <!-- C++ Logo -->
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo">
@@ -74,9 +77,6 @@
 
 <!-- Jetpack Logo -->
 <img width="50" height="50" src="https://miro.medium.com/v2/resize:fit:1200/0*_ca1XWfApCvDwk_S.jpg" alt="Jetpack Compose Logo">
-
-<!-- Node.js Logo -->
-<img width="50" height="50" src="https://pluspng.com/img-png/nodejs-logo-vector-png-desktop-background-2560.png" alt="Node.js Logo">
 
 <!-- npm Logo -->
 <img width="50" height="50" src="https://logospng.org/download/npm/npm-2048.png" alt="npm Logo">
