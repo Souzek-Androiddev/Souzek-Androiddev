@@ -9,6 +9,8 @@
 
 ### Technologies:
 
+### Technologies:
+
 #### Mobile & Android
 <p>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
@@ -23,6 +25,7 @@
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
 </p>
