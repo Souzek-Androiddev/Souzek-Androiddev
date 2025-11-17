@@ -104,23 +104,34 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
   Coursework, tutorials, and notes from my online learning adventures.
 
 - [**VScode**](https://github.com/Souzek-Androiddev/VScode)  
+  VS Code snippets, settings, and recommended extensions I use.
   Tools and extensions for enhancing HTML, CSS & JAVASCRIPT, C/C++, JAVA, PYTHON development in VS Code.
 
 ---
 
 ## 🛠️ Skills & Interests
 
-- Android Development
-- Portfolio Projects
-- Web Development
-- HTML, CSS & JAVASCRIPT, C/C++, JAVA, PYTHON
-- Learning & Sharing Knowledge
+- Android: Java, Kotlin, Jetpack Compose, XML layouts  
+- Backend & APIs: Firebase, REST APIs, Postman  
+- Web: HTML, CSS, JavaScript, Bootstrap, Node.js,
+- Package manager: npm  
+- Other: Flutter, Python, C++, Git, Figma
 
 ---
 
 ## 📈 GitHub Stats
 
+<!-- Main stats card -->
 ![Souzek-Androiddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souzek-Androiddev&show_icons=true&theme=radical)
+
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical)
+
+<!-- Activity graph -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Souzek-Androiddev&theme=react-dark)
+
+<!-- Streaks -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Souzek-Androiddev&theme=radical)
 
 ---
 
@@ -134,16 +145,6 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 
 ---
 
-## ✨ Let’s make this README even better!
-
-To personalize your README, could you share:
-- **Your profession or current role?**
-- **Top technical skills or technologies you love working with?**
-- **Favorite or most proud project(s)?**
-- **Any social links you'd like to include (LinkedIn, Twitter, website, blog, etc.)?**
-- **A short bio or fun fact about yourself?**
-
-Reply with these details and I’ll refine your README to truly showcase YOU!
 <!---
 Souzek-Androiddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
