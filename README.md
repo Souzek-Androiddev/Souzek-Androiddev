@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Caffeine fueled, code driven" or, if you'd like something a bit more unique: "Warning: code may contain traces of video game breaks"
 
-### Technologies
+### Technologies:
 
 <!-- Mobile & Android (icon header) -->
 <p>
