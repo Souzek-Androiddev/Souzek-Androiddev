@@ -1,89 +1,4 @@
-- 👋 Hi, I’m @Abdul Salim
-- 👀 I’m interested in Web Developer, Game Developer, Android Developer, UI/UX Designer, Graphic Designer, Affiliate Marketing, Video Editing/Animation and Sportive.
-- 📱 Love everything about Android development and Andriod Products. Day by day working on projects and improving my Android development skills;
-- 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, Jquery, Bootstramp, Node.js, Git, npm, Figma, Flutter, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts, Python, C++, [...]
-- 💞️ I’m looking to collaborate on basically anything, honestly and technological ideas.
-- 📫 Contact me on Github, please if you have any questions to ask.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: "Caffeine fueled, code driven" or, if you'd like something a bit more unique: "Warning: code may contain traces of video game breaks"
-
-### Technologies:
-
-<!-- Mobile & Android (icon header) -->
-<p>
-<img alt="Mobile Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="28" height="28" style="vertical-align:middle"/> <strong style="margin-left:8px;">Mobile & Android</strong>
-</p>
-
-<p>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
-<img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" />
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-</p>
-
-<!-- Web & Frontend (icon header) -->
-<p>
-<img alt="Web Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" style="vertical-align:middle"/> <strong style="margin-left:8px;">Web & Frontend</strong>
-</p>
-
-<p>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-<img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
-</p>
-
-<!-- Backend & APIs (icon header) -->
-<p>
-<img alt="Backend Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" style="vertical-align:middle"/> <strong style="margin-left:8px;">Backend & APIs</strong>
-</p>
-
-<p>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" />
-<img alt="Express" src="https://img.shields.io/badge/Express-%23404d59?logo=express&logoColor=white&style=for-the-badge" />
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
-<img alt="REST API" src="https://img.shields.io/badge/REST_API-2DBE60?logo=swagger&logoColor=white&style=for-the-badge" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-</p>
-
-<!-- Databases (icon header) -->
-<p>
-<img alt="Database Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28" height="28" style="vertical-align:middle"/> <strong style="margin-left:8px;">Databases</strong>
-</p>
-
-<p>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-</p>
-
-<!-- DevOps & Tooling (icon header) -->
-<p>
-<img alt="DevOps Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" height="28" style="vertical-align:middle"/> <strong style="margin-left:8px;">DevOps & Tooling</strong>
-</p>
-
-<p>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-</p>
-
-<!-- Languages & Misc (icon header) -->
-<p>
-<img alt="Code Icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" style="vertical-align:middle"/> <strong style="margin-left:8px;">Languages & Misc</strong>
-</p>
-
-<p>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-</p>
-````markdown
-````
-
+````markdown name=README.md url=https://github.com/Souzek-Androiddev/Souzek-Androiddev/blob/4274e127a69f2e63f0b7edaa8f83d6a10ba6576c/README.md
 # 👋 Hi, I’m Souzek-Androiddev!
 
 Welcome to my GitHub profile!  
@@ -123,7 +38,9 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (refreshed)
+
+Last updated: 2025-11-17 04:07:45 UTC
 
 <!-- Profile overview -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souzek-Androiddev&theme=radical)
@@ -134,7 +51,7 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical)
 
-<!-- Pinned repositories (example pins) -->
+<!-- Pinned repositories -->
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Portfolio-project&theme=radical)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Souzek-Androiddev.github.io&theme=radical)
 
@@ -162,4 +79,4 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 <!---
 Souzek-Androiddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----
+--->
