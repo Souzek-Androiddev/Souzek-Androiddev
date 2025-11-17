@@ -1,4 +1,4 @@
-````markdown name=README.md url=https://github.com/Souzek-Androiddev/Souzek-Androiddev/blob/4274e127a69f2e63f0b7edaa8f83d6a10ba6576c/README.md
+
 # 👋 Hi, I’m Souzek-Androiddev!
 
 Welcome to my GitHub profile!  
@@ -39,8 +39,6 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 ---
 
 ## 📈 GitHub Stats (refreshed)
-
-Last updated: 2025-11-17 04:07:45 UTC
 
 <!-- Profile overview -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souzek-Androiddev&theme=radical)
