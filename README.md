@@ -54,8 +54,8 @@
 
 #### Databases
 <p>
-<img alt="SQL Server 2022" src=https://img.shields.io/badge/SQL%20Server%202022-61DBFB?style=for-the-badge&logo=MYSQL&logoColor=white&labelColor=blue&color=blue />  
-<img alt="MySQL Workbench" src=https://img.shields.io/badge/MySQL%20Workbench-61DBFB?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=white&color=white />
+<img alt="SQL Server 2022" src=https://img.shields.io/badge/SQL%20Server%202022-61DBFB?style=for-the-badge&logo=mysql&logoColor=Blue&labelColor=white&color=blue />  
+<img alt="MySQL Workbench" src=https://img.shields.io/badge/MySQL%20Workbench-61DBFB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue&color=blue />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
