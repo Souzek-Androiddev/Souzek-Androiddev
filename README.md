@@ -54,13 +54,15 @@
 
 #### Databases
 <p>
+<img alt="SQL Server 2022" src=https://img.shields.io/badge/SQL%20Server%202022-61DBFB?style=for-the-badge&logo=MYSQL&logoColor=white&labelColor=blue&color=white />  
+<img alt="MySQL Workbench" src=https://img.shields.io/badge/MySQL%20Workbench-61DBFB?style=for-the-badge&logo=MYSQL&logoColor=blue&labelColor=white />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
 </p>
 
 #### DevOps & Tooling
 <p>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> 
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
