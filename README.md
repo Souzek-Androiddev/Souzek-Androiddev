@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdul Salim
 - 👀 I’m interested in Web Developer, Game Developer, Android Developer, UI/UX Designer, Graphic Designer, Affiliate Marketing, Video Editing/Animation and Sportive.
 - 📱 Love everything about Android development and Andriod Products. Day by day working on projects and improving my Android development skills;
-- 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET Core, Fast API, Git, Docker, npm, Figma, Flutter, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts
+- 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, Express, Git, Docker, npm, Figma, Flutter, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts
 - 💞️ I’m looking to collaborate on basically anything, honestly and technological ideas.
 - 📫 Contact me on Github, please if you have any questions to ask.
 - 😄 Pronouns: He/Him
@@ -90,17 +90,17 @@ I'm passionate about technology, coding, and building impactful solutions. Here 
 
 ## 🚀 Featured Repositories
 
-- [**Souzek-Androiddev**](https://github.com/Souzek-Androiddev/Souzek-Androiddev)  
-  My personal repository — get to know me, my work, and what drives me!
-
 - [**Portfolio-project**](https://github.com/Souzek-Androiddev/Portfolio-project)  
   A curated portfolio of my favorite projects demonstrating my technical and creative abilities.
 
 - [**Souzek-Androiddev.github.io**](https://github.com/Souzek-Androiddev/Souzek-Androiddev.github.io)  
   My personal website: live demos, blogs, and more.
 
+- [**Souzek-Androiddev**](https://github.com/Souzek-Androiddev/Souzek-Androiddev)  
+  My personal repository — get to know me, my work, and what drives me!
+
 - [**VScode**](https://github.com/Souzek-Androiddev/VScode)  
-  Tools and extensions for enhancing HTML, CSS & JAVASCRIPT, C/C++, JAVA, PYTHON development in VS Code.
+  Tools and extensions for enhancing HTML, CSS & JavaScript, C/C++, Java, Python development in VS Code.
 
 ---
 
