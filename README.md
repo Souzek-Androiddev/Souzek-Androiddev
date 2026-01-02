@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdul Salim
 - 👀 I’m interested in Web Developer, Game Developer, Android Developer, UI/UX Designer, Graphic Designer, Affiliate Marketing, Video Editing/Animation and Sportive.
 - 📱 Love everything about Android development and Andriod Products. Day by day working on projects and improving my Android development skills;
-- 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, Express, Git, Docker, npm, Figma, Flutter, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts
+- 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET Core, Fast API, Git, Docker, npm, Figma, Flutter, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts
 - 💞️ I’m looking to collaborate on basically anything, honestly and technological ideas.
 - 📫 Contact me on Github, please if you have any questions to ask.
 - 😄 Pronouns: He/Him
@@ -73,14 +73,8 @@
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </p>
 
-# 👋 Hi, I’m Souzek-Androiddev!
-
-I'm passionate about technology, designing, coding, and building impactful solutions. Here
 - [**Souzek-Androiddev.github.io**](https://github.com/Souzek-Androiddev/Souzek-Androiddev.github.io)  
   My personal website: live demos, blogs, and more.
-
-
-
 
 - [**VScode**](https://github.com/Souzek-Androiddev/VScode)  
   Tools and extensions for enhancing HTML, CSS & JAVASCRIPT, C/C++, JAVA, PYTHON development in VS Code.
@@ -102,7 +96,7 @@ I'm passionate about technology, designing, coding, and building impactful solut
 
 <!-- Profile overview -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souzek-Androiddev&theme=radical)
-I'm passionate about technology, designing, coding, and building impactful solutions. 
+
 <!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical)
 
