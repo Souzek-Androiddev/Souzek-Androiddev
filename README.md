@@ -120,7 +120,6 @@ I'm passionate about technology, designing, coding, and building impactful solut
 ![Souzek-Androiddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souzek-Androiddev&show_icons=true&theme=radical)
 
 <!-- Top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev)](https://github.com/Souzek-Androiddev/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical)
 
 <!-- Pinned repositories (example pins) -->
