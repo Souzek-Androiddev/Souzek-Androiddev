@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Abdul Salim.
+- 👋 Hi, my name is Abdul Salim.
 - 👀 I’m interested in Web Developer, Game Developer, Android Developer, UI/UX Designer, Graphic Designer, Affiliate Marketing, Video Editing/Animation and Sportive.
 - 📱 Love everything about Android development and Andriod Products. Day by day working on projects and improving my Android development skills;
 - 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET Core, Fast API, Git, Docker, npm, Figma, Flutter, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts.
