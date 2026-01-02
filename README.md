@@ -117,7 +117,7 @@ I'm passionate about technology, designing, coding, and building impactful solut
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souzek-Androiddev&theme=radical)
 
 <!-- Main stats -->
-[![Souzek-Androiddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzek-androiddev)](https://github.com/souzek-androiddev/github-readme-stats)
+[![Souzek-Androiddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souzek-Androiddev)](https://github.com/souzek-androiddev/github-readme-stats)
 ![Souzek-Androiddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souzek-Androiddev&show_icons=true&theme=radical)
 
 <!-- Top languages -->
