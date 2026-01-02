@@ -136,6 +136,10 @@ I'm passionate about technology, designing, coding, and building impactful solut
 <!-- Visitor counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Souzek-Androiddev&style=flat)
 
+<!-- Github followers -->
+![Profile Followers](https://img.shields.io/github/followers/7?style=for-the-badge&logo=github)
+
+
 ---
 
 ## 🌐 Connect With Me
