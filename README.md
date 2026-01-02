@@ -37,7 +37,9 @@
 </p>
 
 ---
-@@ -40,6 +45,11 @@
+
+#### Backend & APIs
+<p>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
 <img alt="REST API" src="https://img.shields.io/badge/REST_API-2DBE60?logo=swagger&logoColor=white&style=for-the-badge" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
@@ -49,17 +51,69 @@
 </p>
 
 ---
-@@ -97,10 +107,10 @@
+
+#### Databases
+<p>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+</p>
+
+#### DevOps & Tooling
+<p>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+</p>
+
+#### Languages & Misc
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+</p>
+
+# 👋 Hi, I’m Souzek-Androiddev!
+
+I'm passionate about technology, designing, coding, and building impactful solutions. Here
+- [**Souzek-Androiddev.github.io**](https://github.com/Souzek-Androiddev/Souzek-Androiddev.github.io)  
+  My personal website: live demos, blogs, and more.
+
+
+
+
+- [**VScode**](https://github.com/Souzek-Androiddev/VScode)  
+  Tools and extensions for enhancing HTML, CSS & JAVASCRIPT, C/C++, JAVA, PYTHON development in VS Code.
+
 ## 🛠️ Skills & Interests
 
 - Android: Java, Kotlin, Jetpack Compose, XML layouts
-- Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap, React, Angular, Vue.js, Next.js, Astro, Tailwind CSS
+- Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap, React
 - Version Control Systems: Git
 - VCS Hosting: GitHub, GitLab
-- Backend & APIs: Node.js, Express, Firebase, Django, Laravel, ASP.NET Core, Flask, FastAPI, REST APIs, Postman
+- Backend & APIs: Node.js, Express, Firebase, REST APIs, Postman
 - Database: PostgreSQL, MongoDB
 - Package manager: Docker, npm  
 - Other: Figma, Flutter, Python, C++
-@@ -140,4 +150,4 @@
 
+---
+
+## 📈 GitHub Stats
+
+<!-- Profile overview -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souzek-Androiddev&theme=radical)
+I'm passionate about technology, designing, coding, and building impactful solutions. 
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical)
+
+<!-- Pinned repositories (example pins) -->
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Portfolio-project&theme=radical)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Souzek-Androiddev.github.io&theme=radical)
+
+<!-- Contribution graph -->
+![Activity Graph](https://activity-graph.herokuapp.com?username=Souzek-Androiddev&theme=react-dark)
+
+<!-- Streaks -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Souzek-Androiddev&theme=radical)
 *Thank you for visiting my profile! Feel free to explore my repositories, contribute, or connect.*
+
