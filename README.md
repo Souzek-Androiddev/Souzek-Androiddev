@@ -72,7 +72,7 @@
 #### Languages & Misc
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img alt="Java" src="https://img.shields.io/badge/:badgeContent?style=flat&logo=java&logoColor=Red&logoSize=auto&label=healthiness&labelColor=rgb&color=rgb&cacheSeconds=3600" />  
+<img alt="Java" src="https://img.shields.io/badge/Java-4556cd?logo=java&logoColor=white&style=for-the-badge" />  
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </p>
