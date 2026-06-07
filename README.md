@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Abdul Salim.
-- 👀 I’m interested in Web Developer, Game Developer, Android Developer, UI/UX Designer, Graphic Designer, Affiliate Marketing, Video Editing/Animation and Sportive.
+- 👀 I'm interested in Web Developer, Game Developer, Android Developer, UI/UX Designer, Graphic Designer, Affiliate Marketing, Video Editing/Animation and Sportive.
 - 📱 Love everything about Android development and Andriod Products. Day by day working on projects and improving my Android development skills;
-- 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET Core, Fast API, Git, Docker, npm, Figma, Flutter, Dart, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts.
-- 💞️ I’m looking to collaborate on basically anything, honestly and technological ideas.
+- 🌱 I'm currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET[...]
+- 💞️ I'm looking to collaborate on basically anything, honestly and technological ideas.
 - 📫 Contact me on Github, please if you have any questions to ask.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "Caffeine fueled, code driven" or, if you'd like something a bit more unique: "Warning: code may contain traces of video game breaks"
@@ -72,14 +72,14 @@
 #### Languages & Misc
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img alt="Java" src="https://img.shields.io/badge/Java-4556cd?logo=java&logoColor=white&style=for-the-badge" />  
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-# 👋 Hi, Once again. I’m Souzek-Androiddev!
+# 👋 Hi, Once again. I'm Souzek-Androiddev!
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, designing, coding, and building impactful solutions. Here you'll find a showcase of my projects, skills, and journey as a developer.
