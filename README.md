@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Abdul Salim.
 - 👀 I’m interested in Web Developer, Game Developer, Android Developer, UI/UX Designer, Graphic Designer, Affiliate Marketing, Video Editing/Animation and Sportive.
 - 📱 Love everything about Android development and Andriod Products. Day by day working on projects and improving my Android development skills;
-- 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET Core, Fast API, Git, Docker, npm, Figma, Flutter, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts.
+- 🌱 I’m currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET Core, Fast API, Git, Docker, npm, Figma, Flutter, Dart, Kotlin, Firebase, REST API, Jetpack Compose, XML layouts.
 - 💞️ I’m looking to collaborate on basically anything, honestly and technological ideas.
 - 📫 Contact me on Github, please if you have any questions to ask.
 - 😄 Pronouns: He/Him
@@ -17,6 +17,7 @@
 <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-02569B?logo=dart&logoColor=blue&style=for-the-badge" />
 </p>
 
 ---
