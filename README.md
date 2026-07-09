@@ -153,7 +153,7 @@ I'm passionate about technology, designing, coding, and building impactful solut
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Souzek-Androiddev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://salimsulley17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://sulemanasalimofficial@gmail.com)
 
 ---
 
