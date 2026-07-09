@@ -55,7 +55,7 @@
 
 #### Databases
 <p>
-<img alt="SQL Server 2022" src=https://img.shields.io/badge/SQL%20Server%202022-61DBFB?style=for-the-badge&logo=mysql&logoColor=Blue&labelColor=white&color=blue />  
+<img alt="SQL Server 2025" src=https://img.shields.io/badge/SQL%20Server%202022-61DBFB?style=for-the-badge&logo=mysql&logoColor=Blue&labelColor=white&color=blue />  
 <img alt="MySQL Workbench" src=https://img.shields.io/badge/MySQL%20Workbench-61DBFB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue&color=blue />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
@@ -104,12 +104,12 @@ I'm passionate about technology, designing, coding, and building impactful solut
 
 ## 🛠️ Skills & Interests
 
-- Android: Java, Kotlin, Jetpack Compose, XML layouts
-- Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap, React, Angular, Vue.js, Next.js, Astro, Tailwind CSS
+- Android: Java, Dart, Kotlin, Jetpack Compose, XML layouts
+- Frontend: HTML, CSS, JavaScript, jQuery, Bootstrap, React.js, Angular.js, Vue.js, Next.js, Astro, Tailwind CSS
 - Version Control Systems: Git
 - VCS Hosting: GitHub, GitLab
-- Backend & APIs: Node.js, Express, Firebase, Django, Laravel, ASP.NET Core, Flask, FastAPI, REST APIs, Postman
-- Database: PostgreSQL, MongoDB
+- Backend & APIs: Node.js, Express.js, Firebase, Django, Laravel, ASP.NET Core, Flask, FastAPI, REST APIs, Postman
+- Database:  MySQL Workbench, SQL Server 2025, PostgreSQL, MongoDB
 - Package manager: Docker, npm  
 - Other: Figma, Flutter, Python, C++
 
