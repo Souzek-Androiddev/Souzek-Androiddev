@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Abdul Salim.
 - 👀 I'm interested in Web Developer, Game Developer, Android Developer, UI/UX Designer, Graphic Designer, Video Editing/Animation and Sportive.
 - 📱 Love everything about Android development and Andriod Products. Day by day working on projects and improving my Android development skills;
-- 🌱 I'm currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET[...]
+- 🌱 I'm currently learning Android Studio, HTML, CSS, Javascript, jQuery, Bootstramp, Node.js, React, Angular, Vue.js, Express.js, Next.js, Astro, Tailwind CSS, Django, Laravel, Flask, ASP.NET
 - 💞️ I'm looking to collaborate on basically anything, honestly and technological ideas.
 - 📫 Contact me on Github, please if you have any questions to ask.
 - 😄 Pronouns: He/Him
@@ -117,36 +117,43 @@ I'm passionate about technology, designing, coding, and building impactful solut
 
 ## 📈 GitHub Stats
 
-<!-- Profile overview -->
+### Profile Overview
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souzek-Androiddev&theme=radical)
 
-<!-- Main stats -->
-![Souzek-Androiddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souzek-Androiddev&show_icons=true&theme=radical)
+### Main Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souzek-Androiddev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Souzek-Androiddev&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
 
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical)
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=compact&theme=radical&langs_count=8)
 
-<!-- Pinned repositories (example pins) -->
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Souzek-Androiddev.github.io&theme=radical)
+### Most Used Languages (Detailed)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzek-Androiddev&layout=donut-vertical&theme=radical&langs_count=10)
 
-<!-- Contribution graph -->
-![Activity Graph](https://activity-graph.herokuapp.com?username=Souzek-Androiddev&theme=react-dark)
+### Featured Repositories
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Souzek-Androiddev.github.io&theme=radical" alt="Repo 1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Souzek-Androiddev&repo=Portfolio-project&theme=radical" alt="Repo 2" width="48%" />
+</div>
 
-<!-- Streaks -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Souzek-Androiddev&theme=radical)
+### Contribution Activity
+![Activity Graph](https://activity-graph.herokuapp.com/?username=Souzek-Androiddev&theme=react-dark&hide_border=true)
 
-<!-- Visitor counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Souzek-Androiddev&style=flat)
-
-<!-- Github followers -->
-![Profile Followers](https://img.shields.io/github/followers/7?style=for-the-badge&logo=github)
-
+### Profile Stats
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Souzek-Androiddev&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Souzek-Androiddev?style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Souzek-Androiddev?style=flat-square&logo=github" alt="GitHub Stars" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<!-- Add social links here (LinkedIn, Twitter, Blog, Email, etc.) -->
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Souzek-Androiddev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
